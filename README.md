@@ -7,6 +7,6 @@ This project offered at Forage, is a Virtual Internship Program by TATA Insights
 
 3. The third task required me to visualize the given information using Tableau or PowerBI, wherein I chose Tableau.
 
-4. The final task had me explaining all the insights from the visualizations and make a <a href="https://www.youtube.com/watch?v=ugiJuZIGdoA" target="_blank>Youtube video</a> explaining my deductions from the information and give possible solutions.
+4. The final task had me explaining all the insights from the visualizations and make a <a href="https://www.youtube.com/watch?v=ugiJuZIGdoA" target="_blank">Youtube video</a> explaining my deductions from the information and give possible solutions.
 
 <a href="https://www.theforage.com/virtual-internships/prototype/MyXvBcppsW2FkNYCX/Data-Visualisation-Empowering-Business-with-Effective-Insights?ref=DTZGyRftdiTvBtMeX" target="_blank">Link to the task</a>
